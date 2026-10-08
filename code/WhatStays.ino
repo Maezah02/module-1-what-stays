@@ -1,6 +1,6 @@
 
 /*
- 
+ What Stops, a generative art representing relationships. 
 */
 
 #include "TFT_eSPI.h"
