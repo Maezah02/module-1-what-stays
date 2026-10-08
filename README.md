@@ -16,6 +16,6 @@ What Stays is a visual art project that explores the transition of relationships
 - Battery
   
  <p align="center">
-  <img src="images/what_you_need.JPG" alt="What You Need" width="400">
+  <img src="images/What _ you_need.JPG" alt="What You Need" width="400">
 </p>
 
